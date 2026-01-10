@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/igy-bel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=igy-bel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igy-bel&layout=compact&langs_count=8&theme=synthwave"/>
