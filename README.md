@@ -58,9 +58,9 @@
 
 <div align="center">
   
-<a href = "mailto:contato@isabelyanai329"><img loading="lazy" src="https://img.shields.io/badge/Gmail-%23E0218A?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF" target="_blank"></a>
+<a href = "mailto:isabelyanai329@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-%23E0218A?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF" target="_blank"></a>
 <a href="https://www.linkedin.com/in/isabel-hikari-yanai-809a53396/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%23E0218A?style=for-the-badge&logo=LinkedIn&logoColor=%23FFFFFF" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/instagram-%23E0218A?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF" target="_blank"></a>
+<a href="https://instagram.com/igy_bel" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/instagram-%23E0218A?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF" target="_blank"></a>
   
 </div>
 
